@@ -66,7 +66,7 @@ The contract includes the following main components:
 
 
 [Video Demo](https://vimeo.com/840667331?share%253Dcopy) |
-[Live Site](https://main-AuroSave.vercel.app/) |
+[Live Site](https://auro-save.vercel.app/) |
 
 ## Run Locally
 
